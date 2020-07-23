@@ -1,0 +1,20 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "main": "scrip1t.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "fs": "0.0.1-security",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
